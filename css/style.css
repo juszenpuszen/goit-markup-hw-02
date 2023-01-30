@@ -1,0 +1,13 @@
+.button {
+  border-radius: 4px;
+  color: black;
+  background: rgba(245, 244, 250, 1);
+  border: white;
+}
+.button:active {
+  color: white;
+  background: rgba(33, 150, 243, 1);
+}
+.link-nav:active {
+  color: rgba(33, 150, 243, 1);
+}
