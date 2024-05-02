@@ -96,7 +96,7 @@ a:focus {
 .team-section {
   background-color: var(--cloud);
 }
-.team-title {
+.section-main-title {
   /* font-family: "Roboto", sans-serif;
   font-weight: 700; */
   font-size: 36px;
@@ -108,13 +108,4 @@ a:focus {
 }
 .members {
   background-color: var(--white);
-}
-.member-name {
-  font-family: "Roboto", sans-serif;
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
-  text-align: center;
-  color: var(--navy-blue);
 }
