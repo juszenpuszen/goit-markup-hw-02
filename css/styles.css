@@ -120,6 +120,6 @@ a:focus {
 .footer-bg {
   background-color: var(--navy-blue);
 }
-.studio-text-white span {
+.studio-text-white {
   color: var(--cloud);
 }
